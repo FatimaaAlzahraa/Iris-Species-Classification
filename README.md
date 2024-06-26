@@ -17,7 +17,7 @@ Dataset
 
 ◆ Class: The species of the iris (e.g., setosa, versicolor, virginica).
 
-STEPS:  
+## STEPS:  
 1- first i read data set 
 2- show the columns information (columns names and data types )
 4- see if there's null values in rows
