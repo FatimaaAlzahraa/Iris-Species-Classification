@@ -18,8 +18,8 @@ Dataset
 ◆ Class: The species of the iris (e.g., setosa, versicolor, virginica).
 
 ## STEPS:  
-● Numpy: Used for Mathematical Operations.
-● first i read data set 
+
+●first i read data set 
 ● show the columns information (columns names and data types )
 ● see if there's null values in rows
 ● see the describtion and correlation between the features 
