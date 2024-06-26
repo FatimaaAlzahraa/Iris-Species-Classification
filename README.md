@@ -19,9 +19,10 @@ Dataset
 
 ## STEPS:  
 ◆ first i read data set 
+
 ◆ show the columns information (columns names and data types )
 
-● see if there's null values in rows
+◆ see if there's null values in rows
 ● see the describtion and correlation between the features 
 ● i used seaborn visulization to show corr heatmap  ( if color brightness (the higher corr ) else (the lower corr)
 ● then i split datd features and label 
